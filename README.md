@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nenenems
+- 👋 Hi, I’m Irene!
 - 👀 I’m interested in Astrophysics
 - 🌱 I’m currently learning python, R and Fortran
 - 😄 Pronouns: she/her
